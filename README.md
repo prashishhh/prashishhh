@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Prashish Sapkota</h1>
 
 <p align="center">
   <b>Aspiring Software Engineer | Python, Django, Java | AI & ML Explorer</b><br>
@@ -19,10 +19,10 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://www.linkedin.com/in/prashish-sapkota-583ab12b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:[your-email@email.com]">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -46,13 +46,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashishhh&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashishhh&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
-
-
 
 ### 🧑‍💻 Currently Learning
 
